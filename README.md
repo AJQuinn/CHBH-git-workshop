@@ -18,7 +18,7 @@ You can do this by clicking the `fork` button on the top right of the original r
 
 You can run this on a terminal on your local computer. The code will look something like:
 
-`git clone https://github.com/OHBA-analysis/Quinn2022_GLMSpectrum.git`
+`git clone https://github.com/AJQuinn/CHBH-git-workshop.git`
 
 Make sure that you clone your copy of the repo - not the original. It is possible to contribute directly to a repository without making a fork but it is likely that you won't have permission to do this.
 
