@@ -4,6 +4,10 @@ This is the practical activity included in the CHBH Git session as part of the C
 
 There are two ways to do this, by creating a local copy of the repository or by making changes directly on github. The first way is more complex but most likely the best for working with code that you want to run and test. The second is simpler but only really appropriate for smaller changes to text and documentation. Choose the path that best suits you and the work in hand.
 
+## Getting started
+
+Before contributing to a github repository - you'll need to make sure that you have a 'Personal Access Token' configured. This a more secure alternative to a password that github is now using. If you already have a token then this should work, to generatee a new token - see github's ["Creating a Personal Access Token"](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) guidance. We recommend creating a 'classic' personal access token from this guide if you haven't used them before.
+
 ## Contribute using a local copy of the repository
 
 This is the most common workflow for making a contribution. You'll need to `fork` this repository to make a copy,  `clone` your new copy, make some changes and `push` these back to github. Finally, you can request that the repository owner merge your contribution by creating a `pull request`.
