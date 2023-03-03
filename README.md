@@ -89,7 +89,7 @@ Use this method to add a joke to `jokes.md`, a fact to `facts.md` and your name/
 
 Finally, we need to tell the original repository that we have some changes to share. We do this by creating a `pull request` on github. You can do this by clicking the 	`pull request` button above the list of files on github.com.
 
-On the pull request page, sure the 'base' repository is the original and the 'head' repository is your fork. Finally, include a helpful summary of the changes in the pull-request message. 
+On the pull request page, make sure the 'base' repository is the original and the 'head' repository is your fork. Finally, include a helpful summary of the changes in the pull-request message. 
 
 You can navigate back to the original repository on github and look at the `pull requests` tab to see what changes other people are proposing. This only shows open (unmerged) requests by default but you can toggle this to look at closed (merged) requests as well.
 
