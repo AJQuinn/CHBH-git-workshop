@@ -5,3 +5,4 @@ Please start your name on a new line with a '-' character to indicate a new item
  - Andrew Quinn [(ajquinn)](https://github.com/AJQuinn)
  - Alicia Rybicki [alirybicki](https://github.com/alirybicki)
  - Tom Marshall [(TomRhysMarshall)](https://git.fmrib.ox.ac.uk/marshall)
+ - Yulia Bezsudnova [(Y-Bezs)](https://github.com/Y-Bezs)
